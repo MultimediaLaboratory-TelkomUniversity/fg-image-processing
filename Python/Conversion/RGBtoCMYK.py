@@ -51,8 +51,8 @@ for i in np.arange(height):
 #        img_cmyk.itemset((i,j,3),K)
 
 # Write image        
-cv2.imwrite('image_cmyk.jpg',img_cmyk)
+# cv2.imwrite('image_cmyk.jpg',img_cmyk)
 # View Image
-cv2.imshow('image',img_cmyk)
-cv2.waitKey(0)
-cv2.destroyAllWindows()
+# cv2.imshow('image',img_cmyk)
+# cv2.waitKey(0)
+# cv2.destroyAllWindows()
