@@ -1,4 +1,17 @@
-# Equation used
+# About Multimedia Laboratory Telkom University
+Multimedia Laboratory stands under ICM(Intelligence, Computing, and Multimedia) group in Bachelor of Information Engineering (Computer Science). Since separated from Software Engineering Laboratory, this laboratory focus on multimedia's content which involving :
+1. Graphics : consists of 2D and 3D.
+1. Photography and Videography : focusing on cinematography, animation, motion graphics, and visual effect.
+1. Audio : consist of sound composing.
+
+Multimedia laboratory handles 3 main things, which are:
+1. Production : handles production in multimedia field.
+1. Competition : participating in competition that involving multimedia.
+1. Research : do research on graphics and audio.
+
+# Table of Content
+
+# Equations
 
 ## RGB to CMYK
 ### RGB to CMY
